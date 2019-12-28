@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Introduction to testing from The Complete Junior to Senior Web Developer Roadmap (2020)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyosung11/test.git"
+  },
+  "author": "HyoSung Bidol-Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyosung11/test/issues"
+  },
+  "homepage": "https://github.com/hyosung11/test#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
